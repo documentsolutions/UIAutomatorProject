@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/marcos/.gradle/caches/modules-2/files-2.1/junit/junit-dep/4.10/64417b3bafdecd366afa514bd5beeae6c1f85ece/junit-dep-4.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/pre-dexed/debug/junit-dep-4.10_ceb20c8caa42176bc651c30b59a3be34fdef3c06.jar" />
+    </item>
+    <item
+        jar="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_d877043099356c13ab23f0892b8d9830d23f8101.jar" />
+    </item>
+    <item
+        jar="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_ea322d0f8470e85f3f062c3367c9b54395c7efd4.jar" />
+    </item>
+    <item
+        jar="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/exploded-aar/com.android.support.test/testing-support-lib/0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2700b782e8c78b36636a15b0ed86126a96295de7">
+        <dex dex="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/pre-dexed/debug/com.android.support.test-testing-support-lib-0.1_9e5c2712dbc9894000aec8d7769b8323bcce0121.jar" />
+    </item>
+    <item
+        jar="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/exploded-aar/com.android.support.test.uiautomator/uiautomator-v18/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6657a9dfb636f78de2f25ce33431f19c1baa7e8">
+        <dex dex="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/pre-dexed/debug/com.android.support.test.uiautomator-uiautomator-v18-2.1.0_95568bec77609d4aa510ee4b3b9a96e629bf52cd.jar" />
+    </item>
+    <item
+        jar="/home/marcos/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/pre-dexed/debug/hamcrest-core-1.1_d7c0270d3a90c6e2ba3162eeab794a8bfd4b2467.jar" />
+    </item>
+    <item
+        jar="/home/marcos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_fff74a4dbc6d019a680c9b3d4753b3a90a6eed87.jar" />
+    </item>
+    <item
+        jar="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/marcos/Documentos/UPE/EES/VeV/uiautomatorproject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_8e467e4d5ef8de98907dbcb06286d5105abf02af.jar" />
+    </item>
+
+</items>
