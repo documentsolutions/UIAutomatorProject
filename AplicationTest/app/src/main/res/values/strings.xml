@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicationTest</string><string name="str_add">Adicionar</string>
+    <string name="str_name">Nome</string>
+    <string name="str_phone">Telefone</string>
+</resources>
